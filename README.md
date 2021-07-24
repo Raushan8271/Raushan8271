@@ -1,8 +1,11 @@
 ### Hi there 👋
-### I am Raushan Kumar
-## Full Stack Developer
+## I am Raushan Kumar
+### Full Stack Web Developer
 
 Software professional, strong in design and integration with intuitive problem-solving skills. Proficient in HTML, CSS, React.JS, and hands-on practice of more than 200 DSA questions. Passionate about implementing and learning new things, with the ability to translate business requirements into technical solutions. Looking to start my career as an entry-level software engineer with a reputed firm driven by technology.
+
+
+
 <!--
 **Raushan8271/Raushan8271** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
