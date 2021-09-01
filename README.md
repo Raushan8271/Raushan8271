@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Raushan Kumar
 #### Full Stack Web Developer
-![Full Stack Web Developer](https://lh3.googleusercontent.com/proxy/K8UPNgs2jrN-L45uhjTMxKYnf5HZV9-hB8DFM1_Bk8ZdLsfabvVcgeluQgmeXamOah2101POqJkgjRyu83twhXhdYz2qRYlha6hNz7nch_P2iTJzvZAwAWA9i2RdsLVJbcWgfw)
+![Full Stack Web Developer](https://tpconnects.com/wp-content/uploads/2020/03/full-stack-developer.png)
 
 Software professional, strong in design and integration with intuitive problem-solving skills. Proficient in HTML, CSS, React.JS, and hands-on practice of more than 300 DSA questions. Passionate about implementing and learning new things, with the ability to translate business requirements into technical solutions. Looking to start my career as an entry-level software engineer with a reputed firm driven by technology.
 
